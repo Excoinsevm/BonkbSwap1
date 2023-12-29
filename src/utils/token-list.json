@@ -1,6 +1,12 @@
 {
   "mainnet-beta": [
     {
+      "tokenSymbol": "BONKB",
+      "mintAddress": "58a44KJqpkuDZs5yT46HgG6AzAAnk7sWZcundZfVJHij",
+      "tokenName": "Bonk Boy",
+      "icon": "https://i.imgur.com/ql2YPnO.png"
+    },
+    {
       "tokenSymbol": "SOL",
       "mintAddress": "So11111111111111111111111111111111111111112",
       "tokenName": "Solana",
